@@ -2,7 +2,7 @@
 
 1. Background Color Changer
     
-    [Live Link](https://java-script-projects-seven.vercel.app/) |
+    [<img src="https://iconscout.com/icons/globe" />](https://java-script-projects-seven.vercel.app/) |
  [GitHub](https://github.com/durgaprasad118/JavaScript-Projects/tree/main/Background%20Color%20Changer)
     <details>
     <summary>Show More</summary>
