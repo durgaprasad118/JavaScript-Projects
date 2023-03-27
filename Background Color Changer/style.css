@@ -1,0 +1,16 @@
+body{
+    height:90vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+button{
+    background-color:rgb(72, 70, 70);
+    height:80px;
+    padding:5px 20px;
+    color:white;
+    border-radius: 20px;
+    border:1px solid black;
+    font-family: sans-serif;
+}
