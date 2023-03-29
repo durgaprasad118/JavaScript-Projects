@@ -14,7 +14,7 @@
     </details>
 2. **Counter**
 
-   [Live Link](https://google.com) | [GitHub]()
+   [Live Link](https://java-script-projects-gules.vercel.app/) | [GitHub](https://github.com/durgaprasad118/JavaScript-Projects/tree/main/Counter)
 
     <details>
     <summary>Show More</summary>
